@@ -1,4 +1,4 @@
-## Hi there, I'm [Your Name]!
+## Hi there, I'm ExoticOnix!
 
 I am a software developer with 4 years of experience in various programming languages and technologies. My passion lies in crafting efficient and scalable solutions that solve real-world problems. Here's a glimpse of my skills and expertise:
 
