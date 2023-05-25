@@ -20,3 +20,27 @@ I'm always eager to expand my knowledge and explore new technologies. Feel free 
 - ⚡ Fun fact: Did you know that the term "bug" in the context of computer programming originated from a literal bug? In 1947, computer pioneer Grace Hopper found a moth causing a malfunction in the Harvard Mark II computer and taped it into the logbook, noting it as the "first actual case of bug being found." This incident led to the term "debugging" being used to describe the process of fixing software issues. So, the next time you encounter a bug in your code, remember its humble origins in the world of actual insects! 🐛
 
 Let's code and make a positive impact in the world of software development!
+
+
+<details>
+<p align="center">
+  <a href="https://github.com/exoonix">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=exoonix&theme=transparent" />
+  </a>
+  <a href="https://github.com/exoonix">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=exoonix&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/exoonix">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=exoonix&theme=transparent" />
+  </a>
+  <a href="https://github.com/exoonix">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exoonix&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
+</details>
+
+<p align="center">
+  <a href="https://github.com/exoonix">
+    <img src="https://komarev.com/ghpvc/?username=exoonix&color=blue&style=flat)" />
+  </a>
+</p>
