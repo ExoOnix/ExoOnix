@@ -1,5 +1,14 @@
 ## Hi there, I'm ExoticOnix!
 
+<p align="center">
+  <a href="https://www.youtube.com/channel/UC2EqU7VjSkpWt5MGrksm9fg">
+    <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" />
+  </a>
+  <a href="https://replit.com/@marksh16">
+    <img src="https://img.icons8.com/color/48/000000/replit.png" alt="Replit" />
+  </a>
+</p>
+
 I am a software developer with 4 years of experience in various programming languages and technologies. My passion lies in crafting efficient and scalable solutions that solve real-world problems. Here's a glimpse of my skills and expertise:
 
 - Programming Languages: Python, C#, PHP, HTML, CSS, JavaScript, Lua, and some C++.
