@@ -24,7 +24,7 @@ I'm always eager to expand my knowledge and explore new technologies. Feel free 
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: ExoticOnix#2006
+- 📫 How to reach me: ExoticOnix#3085
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: Did you know that the term "bug" in the context of computer programming originated from a literal bug? In 1947, computer pioneer Grace Hopper found a moth causing a malfunction in the Harvard Mark II computer and taped it into the logbook, noting it as the "first actual case of bug being found." This incident led to the term "debugging" being used to describe the process of fixing software issues.
 
