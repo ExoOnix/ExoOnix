@@ -19,7 +19,7 @@ I am a software developer with 4 years of experience in various programming lang
 
 I'm always eager to expand my knowledge and explore new technologies. Feel free to connect with me to discuss exciting opportunities or to collaborate on interesting projects.
 
-- 🔭 I’m currently working on Unity World at War project.
+- 🔭 I’m currently working on Unity World at War project(Political video game).
 - 🌱 I’m currently learning full stack development using MERN.
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
@@ -28,7 +28,7 @@ I'm always eager to expand my knowledge and explore new technologies. Feel free 
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: Did you know that the term "bug" in the context of computer programming originated from a literal bug? In 1947, computer pioneer Grace Hopper found a moth causing a malfunction in the Harvard Mark II computer and taped it into the logbook, noting it as the "first actual case of bug being found." This incident led to the term "debugging" being used to describe the process of fixing software issues.
 
-Let's code and make a positive impact in the world of software development.
+Let's code and make a positive impact in the world of programming.
 
 
 <details>
