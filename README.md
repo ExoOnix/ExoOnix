@@ -9,6 +9,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=exoonix&show_icons=true&theme=transparent" />
+</p>
+
 I am a software developer with 4 years of experience in various programming languages and technologies. My passion lies in crafting efficient and scalable solutions that solve real-world problems. Here's a glimpse of my skills and expertise:
 
 - Programming Languages: Python, C#, PHP, HTML, CSS, JavaScript, Lua, and some C++.
