@@ -4,7 +4,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=exoonix&show_icons=true&theme=transparent" />
 </p>
 
-I am a software developer with 4 years of experience in various programming languages and technologies. My passion lies in crafting efficient and scalable solutions that solve real-world problems. 
+I am a software developer with 6 years of experience in various programming languages and technologies. My passion lies in crafting efficient and scalable solutions that solve real-world problems. 
 
 I'm always eager to expand my knowledge and explore new technologies. Feel free to connect with me to discuss exciting opportunities or to collaborate on interesting projects.
 
