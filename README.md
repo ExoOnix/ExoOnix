@@ -1,4 +1,4 @@
-## ExoticOnix - Mark Shapirovskyy 14 YO
+## ExoticOnix - Mark Shapirovskyy 15 YO
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=exoonix&show_icons=true&theme=transparent" />
